@@ -1,3 +1,4 @@
 # SPDX-FileCopyrightText: 2026 Menno van der Graaf <mennovandergraaf@hotmail.com>
 # SPDX-License-Identifier: MIT
-*.FCStd filter=lfs diff=lfs merge=lfs -text
+.idea/
+*.FCBak
